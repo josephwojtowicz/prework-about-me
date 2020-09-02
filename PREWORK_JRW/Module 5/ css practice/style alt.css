@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+.red {
+color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+h3 {
+    font-size: 38px;
+}
+h4 {
+    font-size: 8px;
+}
+h5 {
+    text-align: center;
+}
+h6 {
+    font-weight: bold;
+}
+h7 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h8 {
+    font-size: 24px;
+    color: orange;
+    font-weight: bold;
+}
+h9 {
+    color: tomato;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    border-style: double;
+    border-width: thick;
+    border-color: goldenrod;
+}
